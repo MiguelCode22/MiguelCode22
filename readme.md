@@ -6,4 +6,4 @@
 - Projeto: Instagram:
 - https://miguelcode22.github.io/pagina-inicial-do-instagram/
 - Projeto: Meu Perfil personalizado:
-- miguelcode22.github.io/pagina-image-hover-effects/
+- https://miguelcode22.github.io/pagina-image-hover-effects/
