@@ -6,6 +6,8 @@
 - https://miguelcode22.github.io/pagina-inicial-do-instagram/
 - Projeto: Meu Perfil Personalizado:
 - https://miguelcode22.github.io/pagina-image-hover-effects/
+- Projeto: Introdução ao JavaScript:
+- https://miguelcode22.github.io/introdu-o-ao-javascript/
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/geyson-miguel-oliveira/"><i>Miguel Oliveira</i></a> 😃️</h1>
